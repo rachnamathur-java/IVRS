@@ -44,7 +44,7 @@ public class Services {
             int menuChoice = scanner.nextInt();
             switch (menuChoice) {
                 case 0:
-                    System.out.println("Exit");
+                    System.out.println("Thanks for choosing Rogers System!");
                     isTerminated = true;
                     break;
                 case 1:
